@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hi!%I'm%Işıl%👋&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hi!-I'm-Işıl👋&fontSize=45)
 
 ### Hi! I'm Işıl 👋
 <!--
