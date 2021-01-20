@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=deneme)
+![header](https://capsule-render.vercel.app/api?type=soft&text=deneme&animation=fadeIn)
 
 ### Hi there 👋
 
