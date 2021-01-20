@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=deneme&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Hi! I'm Işıl 👋&animation=scaleIn)
 
-### Hi there 👋
 
 <!--
 **islgulerr/islgulerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
