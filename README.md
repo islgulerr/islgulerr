@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=Hi! I'm Işıl 👋&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Hi!%I'm%Işıl%👋&animation=scaleIn)
 
 
 <!--
