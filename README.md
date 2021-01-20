@@ -1,5 +1,8 @@
+<span style="color:orange;">
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hi!%20I'm%20Işıl👋&fontSize=45&animation=scaleIn)
-<span style="color:orange;"></span> 
+
+</span> 
 <!--
 **islgulerr/islgulerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
