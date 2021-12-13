@@ -2,7 +2,7 @@
 </p>
 
 
-<h3 align="center">Computer Engineering Student from Turkey</h3>
+<h3 align="center">Software Engineer at Yapı Kredi Technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
